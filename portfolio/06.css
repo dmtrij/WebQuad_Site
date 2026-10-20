@@ -4,7 +4,5 @@
 .wq06 .bar{height:4cqw;display:flex;align-items:center;gap:.65cqw;padding:0 1.5cqw;background:#e6e8ed}.wq06 .bar i{width:1cqw;height:1cqw;border-radius:50%;background:#e78e8b}.wq06 .bar i:nth-child(2){background:#e8c078}.wq06 .bar i:nth-child(3){background:#93bd9e}.wq06 .bar span{margin:auto;font:1.4cqw Arial,sans-serif;color:#848994}
 .wq06 .desktop>.screen{height:calc(100% - 4cqw)}.wq06 .track{display:block;width:100%;height:100%;position:relative}.wq06 .pane{position:absolute;inset:0;width:100%;height:100%;overflow:hidden}.wq06 .pane:nth-child(n+2){display:none}.wq06 .long{height:100%;object-fit:cover;object-position:top center}
 .wq06 .tablet{z-index:2;left:5cqw;bottom:8cqw;width:40cqw;aspect-ratio:1.3;padding:.85cqw;border-radius:2.8cqw;transform:perspective(100cqw) rotateY(10deg) rotateZ(-6deg)}.wq06 .tablet .screen{border-radius:1.4cqw}
-}
-}
 /* Focus handoff: static screenshots, only device positions change. */
 .wq06 .desktop{animation:wq06stage 20s ease-in-out infinite}.wq06 .tablet{animation:wq06focus 20s ease-in-out infinite}@keyframes wq06stage{0%,15%,100%{transform:perspective(130cqw) rotateY(-5deg) rotateZ(2deg) translateX(0)}55%,75%{transform:perspective(130cqw) rotateY(-5deg) rotateZ(2deg) translateX(5cqw)}}@keyframes wq06focus{0%,15%,100%{transform:perspective(100cqw) rotateY(10deg) rotateZ(-6deg) scale(.94)}55%,75%{transform:perspective(100cqw) rotateY(3deg) rotateZ(-2deg) scale(1.08)}}
