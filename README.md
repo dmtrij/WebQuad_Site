@@ -1,5 +1,3 @@
-# WebQuad Component Lab
+# WebQuad Portfolio Lab
 
-Live preview: https://dmtrij.github.io/WebQuad_Site/
-
-Variant 01: two iPhone 16 Pro device frames with Studio Boiler placeholder screenshot.
+Four independent HTML/CSS concepts, preview: https://dmtrij.github.io/WebQuad_Site/
