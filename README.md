@@ -1,5 +1,3 @@
-# WebQuad Site
+# WebQuad — Portfolio Components
 
-Independent HTML/CSS components and browser previews for WebQuad.
-
-`index.html` — browser preview of six portfolio cards. `portfolio/` — isolated components and styles.
+Six standalone HTML/CSS spatial portfolio concepts. Open `index.html` for the public gallery. Screenshots are placeholders pending real project assets.
