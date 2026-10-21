@@ -1,3 +1,5 @@
-# WebQuad — Portfolio Components
+# WebQuad — Component Lab
 
-Six standalone HTML/CSS spatial portfolio concepts. Open `index.html` for the public gallery. Screenshots are placeholders pending real project assets.
+Main GitHub Pages entry: https://dmtrij.github.io/WebQuad_Site/
+
+Previous portfolio experiments were removed. The repository is ready for new approved components.
